@@ -1,0 +1,12 @@
+@import 'settings';
+@import 'mixins';
+@import 'functions';
+
+
+.#{$rowlow-text-spacing-namespace}text-spacing--subtitled{
+	margin-bottom: 0 !important;
+}
+
+.#{$rowlow-text-spacing-namespace}text-spacing--line-collapse{
+	line-height: 1em !important;
+}
