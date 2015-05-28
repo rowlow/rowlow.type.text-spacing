@@ -1,6 +1,6 @@
 # rowlow.type.text-spacing
 
-A little util to take control over text spacing via CSS selectors
+A little util to take control over text spacing via CSS selectors.
 
 ## Install
 
@@ -29,6 +29,6 @@ A little util to take control over text spacing via CSS selectors
 ### HTML
 ```
     <h1 class="text-spacing--subtitled"></h1>
-    <h1 class="text-transform--line-collapse"></h1>
+    <h1 class="text-spacing--line-collapse"></h1>
 ```
 

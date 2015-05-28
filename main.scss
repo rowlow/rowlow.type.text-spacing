@@ -5,6 +5,10 @@
 
 .#{$rowlow-text-spacing-namespace}text-spacing--subtitled{
 	margin-bottom: 0 !important;
+
+	& + *{
+		margin-top: 0 !important;
+	}
 }
 
 .#{$rowlow-text-spacing-namespace}text-spacing--line-collapse{
